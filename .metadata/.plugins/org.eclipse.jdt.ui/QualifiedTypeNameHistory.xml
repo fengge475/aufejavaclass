@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Runtime"/>
+<fullyQualifiedTypeName name="java.lang.StrictMath"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="cn.aufe.compute.Circle"/>
+<fullyQualifiedTypeName name="java.sql.Struct"/>
+<fullyQualifiedTypeName name="cn.aufe.testsuper.Human"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="cn.aufe.testsuper.Student"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="cn.aufe.work.ChinaStudent"/>
+<fullyQualifiedTypeName name="cn.aufe.work.BeijingStudent"/>
+<fullyQualifiedTypeName name="com.sun.accessibility.internal.resources.accessibility"/>
+<fullyQualifiedTypeName name="cn.aufe.work.AmericanStudent"/>
+<fullyQualifiedTypeName name="cn.aufe.compute.Geometry"/>
+<fullyQualifiedTypeName name="cn.aufe.compute.Student"/>
+</qualifiedTypeNameHistroy>
